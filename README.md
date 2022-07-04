@@ -7,7 +7,7 @@ This is the project repository for the research study *Human Action Recognition 
 <img src="https://user-images.githubusercontent.com/52717252/177212249-5a617999-0ccb-48a0-aac4-4f2be1729f7f.png"
 </p>
 <p align="center">
-BlazePose skeleton data from a sample of the 'tennis swing' action of the UCF-101 dataset. As it can be noticed, the BlazePose system achieved a high performance on this class given that the whole body of the person is shown in most of the frames of the videos.
+BlazePose skeleton data from a 'tennis swing' action of the UCF-101 dataset
 </p>
 
 ## Contents
