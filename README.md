@@ -11,9 +11,9 @@ BlazePose skeleton data from a 'tennis swing' action of the UCF-101 dataset
 </p>
 
 ## Contents
-* [1. Download UCF-101 BlazePose skeleton dataset](https://github.com/malswadi/blazepose-skeleton-hmdb-ucf#1-download-ucf-101-skeleton-dataset)
-* [2. Download HMDB BlazePose skeleton dataset](https://github.com/malswadi/blazepose-skeleton-hmdb-ucf#2-download-hmdb-skeleton-dataset)
-* [3. Storage info](https://github.com/malswadi/skeleton_ucf_hmdb#3-storage-info)
+* [Download UCF-101 BlazePose skeleton dataset](https://github.com/malswadi/blazepose-skeleton-hmdb-ucf#1-download-ucf-101-skeleton-dataset)
+* [Download HMDB BlazePose skeleton dataset](https://github.com/malswadi/blazepose-skeleton-hmdb-ucf#2-download-hmdb-skeleton-dataset)
+* [Storage info](https://github.com/malswadi/skeleton_ucf_hmdb#3-storage-info)
 * [Citation](https://github.com/malswadi/skeleton_ucf_hmdb#citation)
 * [Acknowledgements](https://github.com/malswadi/skeleton_ucf_hmdb#acknowledgements)
 
