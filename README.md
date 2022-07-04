@@ -4,6 +4,9 @@ This is the project repository for the research study *Human Action Recognition 
 *Pending for publication
 
 
+[tennis_sequence](https://user-images.githubusercontent.com/52717252/177212249-5a617999-0ccb-48a0-aac4-4f2be1729f7f.png)
+
+
 ## Contents
 * [1. Download UCF-101 BlazePose skeleton dataset](https://github.com/malswadi/blazepose-skeleton-hmdb-ucf#1-download-ucf-101-skeleton-dataset)
 * [2. Download HMDB BlazePose skeleton dataset](https://github.com/malswadi/blazepose-skeleton-hmdb-ucf#2-download-hmdb-skeleton-dataset)
