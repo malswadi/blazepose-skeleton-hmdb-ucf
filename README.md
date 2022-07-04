@@ -3,9 +3,12 @@
 This is the project repository for the research study *Human Action Recognition using BlazePose Skeleton on Spatial Temporal Graph Convolutional Networks* presented by Motasem S. Alsawadi and Miguel Rio.
 *Pending for publication
 
-
-[tennis_sequence](https://user-images.githubusercontent.com/52717252/177212249-5a617999-0ccb-48a0-aac4-4f2be1729f7f.png)
-
+<p align="center">
+<img src="(https://user-images.githubusercontent.com/52717252/177212249-5a617999-0ccb-48a0-aac4-4f2be1729f7f.png)"
+</p>
+<p align="center">
+BlazePose skeleton data from a sample of the 'tennis swing' action of the UCF-101 dataset. As it can be noticed, the BlazePose system achieved a high performance on this class given that the whole body of the person is shown in most of the frames of the videos.
+</p>
 
 ## Contents
 * [1. Download UCF-101 BlazePose skeleton dataset](https://github.com/malswadi/blazepose-skeleton-hmdb-ucf#1-download-ucf-101-skeleton-dataset)
