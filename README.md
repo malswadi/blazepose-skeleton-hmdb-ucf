@@ -34,5 +34,8 @@ The compressed file size of the UCF-101 BlazePose Skeleton dataset is 499 MB. On
 #### HMDB-51
 The compressed file size of the HMDB-51 BlazePose Skeleton dataset is 150 MB. Alternatively, the uncompressed format has a size of 478 MB of storage.
 
+## Citation
+When our paper is published, we will include the citation information in this section.
+
 ## Acknowledgements
 The training code is written by Motasem S. Alsawadi and it is based upon the skeleton extraction guidelines provided  in *Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition*, Sijie Yan, Yuanjun Xiong and Dahua Lin, AAAI 2018. [[Arxiv Preprint]](https://arxiv.org/abs/1801.07455)
