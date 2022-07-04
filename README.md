@@ -29,10 +29,10 @@ The [HMDB-51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motio
 The UCF-101 and HMDB-51 skeleton dataset are provided as .zip format. 
 
 #### UCF-101
-Pending
+The compressed file size of the UCF-101 BlazePose Skeleton dataset is 499 MB. On the other hand, the uncompressed format has a size of 1.57 GB of storage.
 
 #### HMDB-51
-Pending.
+The compressed file size of the HMDB-51 BlazePose Skeleton dataset is 150 MB. On the other hand, the uncompressed format has a size of 478 MB of storage.
 
 ## Acknowledgements
 The training code is written by Motasem S. Alsawadi and it is based upon the skeleton extraction guidelines provided  in *Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition*, Sijie Yan, Yuanjun Xiong and Dahua Lin, AAAI 2018. [[Arxiv Preprint]](https://arxiv.org/abs/1801.07455)
